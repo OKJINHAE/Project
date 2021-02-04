@@ -1,12 +1,12 @@
 # Project 
 
 :small_orange_diamond: **온습도 & 미세먼지 모니터링 시스템**    
-    * **언어 및 작업툴**: python, Visual Studio Code, PyQt, Raspberry Pi4   
-    * **인원**: 3명   
-    * **기간**: 2020.10.21 ~ 2020. 11.02   
-    * **내용**: 온습도, 미세먼지, 유해가스를 측정하여 실시간 모니터링 시스템 제작       
-   &nbsp;   
-   &nbsp;   
+* **언어 및 작업툴**: python, Visual Studio Code, PyQt, Raspberry Pi4   
+* **인원**: 3명   
+* **기간**: 2020.10.21 ~ 2020. 11.02   
+* **내용**: 온습도, 미세먼지, 유해가스를 측정하여 실시간 모니터링 시스템 제작       
+&nbsp;     
+&nbsp;     
    
 :small_orange_diamond: **AutomicCar Controller&LineTracking with WiFi**    
     * **언어 및 작업툴**: python, Java, Visual Studio Code, Android studio, Raspberry Pi3   
