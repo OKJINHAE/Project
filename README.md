@@ -1,6 +1,6 @@
 # Project 
 
-* **온습도 & 미세먼지 모니터링 시스템** 
+:small_orange_diamond: **온습도 & 미세먼지 모니터링 시스템** 
     * **언어 및 작업툴**: python, Visual Studio Code, PyQt, Raspberry Pi4
     * **인원**: 3명
     * **기간**: 2020.10.21 ~ 2020. 11.02
@@ -8,7 +8,7 @@
    
    
    
-* **AutomicCar Controller&LineTracking with WiFi** 
+:small_orange_diamond: **AutomicCar Controller&LineTracking with WiFi** 
     * **언어 및 작업툴**: python, Java, Visual Studio Code, Android studio, Raspberry Pi3
     * **인원**: 3명
     * **기간**: 2020.10.21 ~ 2020. 11.02
@@ -17,7 +17,7 @@
    
    
    
-*  **YOLO v3를 활용하여 가위바위보 program 제작** 
+:small_orange_diamond:  **YOLO v3를 활용하여 가위바위보 program 제작** 
     * **언어 및 작업툴**: python, Google Colab
     * **인원**: 3명
     * **기간**: 2020.10.21 ~ 2020. 11.02
