@@ -13,9 +13,9 @@
 * **언어 및 작업툴**: python3, Java, Visual Studio Code, Android studio, Raspberry Pi3   
 * **인원**: 3명   
 * **기간**: 2020.11.02 ~ 2020. 11.26   
-* **내용**: 1. 앱에서 버튼과 조이스틱 기능을 추가하여 RC카 controll하기   
-* **역할**:    
-&nbsp;&nbsp;&nbsp;2. line을 따라서 RC카를 원하는 곳으로 이동      
+* **내용**: 1. 앱에서 버튼과 조이스틱 기능을 추가하여 RC카 controll하기    
+&nbsp;&nbsp;&nbsp;2. line을 따라서 RC카를 원하는 곳으로 이동
+* **역할**:         
 &nbsp;     
 &nbsp;     
    
