@@ -4,16 +4,16 @@
 * **언어 및 작업툴**: python3, Visual Studio Code, PyQt, Raspberry Pi4   
 * **인원**: 3명   
 * **기간**: 2020.10.21 ~ 2020. 11.02  
-* **역할**: 브레드보드 회로 구현, 코드적용??,ppt 제작
+* **역할**: 브레드보드 회로 구현, 코드적용??, ppt 제작
 * **내용**: 온습도, 미세먼지, 유해가스를 측정하여 실시간 모니터링 시스템 제작       
 &nbsp;     
 &nbsp;     
    
 :small_orange_diamond: **AutomicCar Controller&LineTracking with WiFi**    
 * **언어 및 작업툴**: python3, Java, Visual Studio Code, Android studio, Raspberry Pi3   
-* **인원**: 3명   
+* **인원**: 5명   
 * **기간**: 2020.11.02 ~ 2020. 11.26   
-* **역할**: 브레드보드 회로 구현, RC카 모터제어,ppt제작
+* **역할**: 브레드보드 회로 구현, RC카 모터제어, ppt제작
 * **내용**: 1. 앱에서 버튼과 조이스틱 기능을 추가하여 RC카 controll하기   
             2. line을 따라서 RC카를 원하는 곳으로 이동      
 &nbsp;     
