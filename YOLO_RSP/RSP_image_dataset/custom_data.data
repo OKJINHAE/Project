@@ -1,5 +1,5 @@
 classes = 3
-train = /content/gdrive/MyDrive/darknet/custom/train.txt
-valid = /content/gdrive/MyDrive/darknet/custom/test.txt
-names = /content/gdrive/MyDrive/darknet/custom/classes.names
+train = /content/gdrive/MyDrive/darknet/game_custom/train.txt
+valid = /content/gdrive/MyDrive/darknet/game_custom/test.txt
+names = /content/gdrive/MyDrive/darknet/game_custom/classes.names
 backup = backup

@@ -23,5 +23,5 @@
 * **언어 및 작업툴**: python3, Google Colab, labelIMG tool   
 * **인원**: 3명   
 * **기간**: 2020.12.28 ~ 2020. 12.31   
-* **역할**: 이미지 레이블링(Image Labeling), 욜로학습
+* **역할**: 이미지 레이블링(Image Labeling), YOLO 학습
 * **내용**: 이미지를 클래스(가위,바위,보)로 분류한 후 승무패를 판정하는 program 개발       
