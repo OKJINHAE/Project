@@ -30,7 +30,7 @@
 - 이미지 라벨링 파일(.txt) : 102개
 
 ### model
-- classes.names : 검출 해야할 물체의 종류
+- classes.names : 검출 해야 할 물체의 종류
     - Rock
     - Paper
     - Scissors
