@@ -1,9 +1,10 @@
 # Project 
  
  :small_orange_diamond:  **kaggle Competitions: RANZCR CLiP - Catheter and Line Position Challenge**    
-* **언어 및 작업툴**: Seaborn version 0.10.0, Pandas version 1.1.5, Numpy version 1.17.5,   
-Cv2 version 4.41, Tenserflow version 2.4.1, Sklearn version 0.24.1, Tenserflow.keras version 2.4.0,   
-Python 3.9.1, MongoDB server version 4.4.3, Pycharm 2020.3.3, mongoDB Compass 1.25.0   
+* **언어 및 작업툴**: Seaborn version 0.10.0, Pandas version 1.1.5, Numpy version 1.17.5,     
+Cv2 version 4.41, Tenserflow version 2.4.1, Sklearn version 0.24.1, 
+Tenserflow.keras version 2.4.0,Python 3.9.1,   
+MongoDB server version 4.4.3, Pycharm 2020.3.3, mongoDB Compass 1.25.0     
 * **인원**: 5명   
 * **기간**: 2021.02.08 ~ 2021.02.26   
 * **역할**: 논문 분석, 알고리즘(Resnet, ResNeXt) 분석, 모델 학습, ppt 제작
